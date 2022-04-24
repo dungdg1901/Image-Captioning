@@ -19,14 +19,23 @@ You can use the weights in the folder
 
 **a group of people sitting next to each other in a living room**
 ![](./images/pic2.jpg)
+
 **a man riding a wave on top of a surfboard**
+
 ![](./images/pic3.jpg)
+
 **a couple of people that are standing in the snow**
+
 ![](./images/pic4.jpg)
+
 **a bunch of different types of vegetables on a table**
+
 ![](./images/pic5.jpg)
+
 **a baseball player getting ready to hit a ball**
+
 ![](./images/pic6.jpg)
+
 **there is a truck that is parked on the side of the road**
 ### Results
 This model was trained solely on the COCO train2014 data. It achieves the following BLEU scores on the COCO val2014 data (with `beam size=1`):
